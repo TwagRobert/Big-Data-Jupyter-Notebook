@@ -1,0 +1,7 @@
+name: lab1
+dependencies:
+  - python=3.8
+  - jupyter
+  - notebook
+  - numpy
+  - pandas
