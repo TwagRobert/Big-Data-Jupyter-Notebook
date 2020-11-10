@@ -1,10 +1,10 @@
-# 2IS077 Big Data Analytics, Lab Notebooks
+# 2IS077 Big Data Analytics, code
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/UppsalaIM/2IS077/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/UppsalaIM/2IS077/main)
 
-This repository contains the lab notebooks for the 2IS077 Big Data Analytics course.
+This repository contains the code for the 2IS077 Big Data Analytics course.
 
-**Launch the notebooks on the cloud by clicking on the `launch binder` button above**.
+**You can launch the notebooks automatically on the cloud by clicking on the `launch binder` button above**.
 
 You can also run the notebooks on your own computer. Please read the [installation instructions](INSTALL.md) if you wish to do this.
 
